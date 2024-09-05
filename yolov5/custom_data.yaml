@@ -1,0 +1,5 @@
+train: ../train_data/images/train/ # train images (relative to 'path') 128 images
+val: ../train_data/images/val/ # val images (relative to 'path') 128 images
+
+nc: 8
+names: ['people', 'knife', 'pistol', 'Grenade', 'Rifle', 'gun', 'Bagpack', 'bomb']
